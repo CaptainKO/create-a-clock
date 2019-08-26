@@ -1,1 +1,10 @@
 /* Add application styles & imports to this file! */
+@font-face {
+  font-family: 'Digital';
+  src:  url('assets/fonts/digital.ttf') format('truetype');
+  
+  }
+
+  body {
+    font-family: 'Digital';
+  }
