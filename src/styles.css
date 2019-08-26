@@ -1,9 +1,13 @@
 /* Add application styles & imports to this file! */
 @font-face {
-  font-family: 'Digital';
-  src:  url('assets/fonts/digital.ttf') format('truetype');
-  
-  }
+  font-family: digital;
+  src:  url('assets/fonts/digital.ttf');
+}
+
+@font-face {
+  font-family: digital-mono;
+  src: url('assets/fonts/digital-mono.ttf') format('truetype');
+}
 
   body {
     font-family: 'Digital';
